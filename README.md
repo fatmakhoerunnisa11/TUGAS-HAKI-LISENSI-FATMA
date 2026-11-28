@@ -31,7 +31,7 @@ Hak Cipta © 2026 oleh Fatma Khoerunnisa. Seluruh hak atas karya dilindungi sesu
 - Nama merek: Sistem Kasir
 
 - Logo: Menggunakan logo rumah Minang.
-<img width="500" height="300" alt="Rumah Makan IndoKapau" src="https://github.com/user-attachments/assets/3ffdba6b-e4c7-4b04-9580-8838c8993ec1" />
+<img width="500" height="500" alt="Rumah Makan IndoKapau" src="https://github.com/user-attachments/assets/3ffdba6b-e4c7-4b04-9580-8838c8993ec1" />
 
 Logo rumah Minang melambangkan identitas, budaya, dan ciri khas aplikasi. Warna biru tua, biru muda, dan putih menggambarkan kepercayaan, kenyamanan, dan kesederhanaan.
 

@@ -13,13 +13,16 @@ penjualan.
 # 1.Hak Cipta (Copyright)
 
 ○ Objek yang Dilindungi:
+
 ▪️ Kode Sumber (Source Code)
 Kode program aplikasi Sistem Kasir yang digunakan untuk mengelola transaksi penjualan, data produk, stok barang, dan laporan penjualan.
 
 ○ Desain Antarmuka (UI/UX Design)
+
 ▪️Desain tampilan aplikasi yang dibuat menggunakan Figma, meliputi halaman utama, halaman transaksi, pengelolaan produk, dan laporan dengan kombinasi warna biru tua, biru muda, dan putih serta logo rumah Minang.
 
 ○ Dokumen Petunjuk Penggunaan (User Manual)
+
 ▪️Pernyataan Hak Cipta:
 Hak Cipta © 2026 oleh Fatma Khoerunnisa. Seluruh hak atas karya dilindungi sesuai ketentuan yang berlaku.
 

@@ -22,25 +22,15 @@ Karya yang dilindungi:
 
 # 2.Merek (Trademark)
 
-Nama merek: Sistem Kasir
+- Nama merek: Sistem Kasir
 
-Logo: Menggunakan logo rumah Minang.
+- Logo: Menggunakan logo rumah Minang.
+<img width="500" height="500" alt="Rumah Makan IndoKapau" src="https://github.com/user-attachments/assets/3ffdba6b-e4c7-4b04-9580-8838c8993ec1" />
 
-Filosofi logo: Logo rumah Minang melambangkan identitas, budaya, dan ciri khas aplikasi. Warna biru tua, biru muda, dan putih menggambarkan kepercayaan, kenyamanan, dan kesederhanaan.
+Logo rumah Minang melambangkan identitas, budaya, dan ciri khas aplikasi. Warna biru tua, biru muda, dan putih menggambarkan kepercayaan, kenyamanan, dan kesederhanaan.
 
-Aset Produk
-
-Aset yang digunakan dalam pembuatan aplikasi:
-
-* Source code dan backend.
-* Desain UI/UX menggunakan Figma.
-* Database aplikasi.
-* User manual.
-
-Lisensi
-
-Aplikasi ini menggunakan MIT License yang memberikan izin kepada pengguna untuk menggunakan, menyalin, memodifikasi, dan mendistribusikan perangkat lunak dengan tetap menyertakan pemberitahuan hak cipta dan lisensi.
-
-Tujuan Pembuatan
-
+Tujuan Pembuatan:
 Aplikasi sistem kasir dibuat untuk membantu pemilik usaha mengelola transaksi penjualan, stok barang, data produk, serta laporan penjualan secara lebih mudah dan terstruktur.
+
+fungsi perlindungan: 
+Melindungi hak pencipta atas aplikasi, desain, logo, dan source code agar tidak disalahgunakan atau ditiru tanpa memperhatikan hak penciptanya.

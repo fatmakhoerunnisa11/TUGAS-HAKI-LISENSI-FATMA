@@ -1,20 +1,18 @@
-# TUGAS-HAKI-LISENSI-FATMA
 tugas untuk membuat lisensi haki
 
-* Nama Aplikasi / Software: Sistem kasir
-* Deskripsi Singkat Fungsi Aplikasi: Mempermudah transaksi penjualan, mengurangi
+# Identitas Produk Perangkat Lunak
+1. Nama Aplikasi / Software: Sistem kasir
+
+2. Kategori Produk: Aplikasi Kasir & Manajemen Stok UMKM Berbasis Website
+
+3. Deskripsi Singkat Fungsi Aplikasi: Mempermudah transaksi penjualan, mengurangi
 kesalahan pencatatan dan perhitungan, Menyimpan data produk dan transaksi secara
 terstruktur, Mempermudah pengelolaan stok, Membantu pemilik usaha melihat laporan
 penjualan.
-n backend, aset desain UI/UX di Figma, User Manual).
-* Merek (Trademark): Apa nama brand dan filosofi logo aplikasi Anda yang didaftarkan
-agar tidak ditiru orang lain? Menggunakan logo rumah minang dan apk yang dibuat
-mempunyai tema berwarna biru tua, biru muda, putih
 
-Hak Cipta (Copyright)
+# 1.Hak Cipta (Copyright)
 
 Nama pencipta: Fatma Khoerunnisa
-
 Karya yang dilindungi:
 
 * Source code aplikasi sistem kasir.
@@ -22,7 +20,7 @@ Karya yang dilindungi:
 * Dokumentasi dan user manual.
 * Struktur dan pengelolaan database aplikasi.
 
-Merek (Trademark)
+# 2.Merek (Trademark)
 
 Nama merek: Sistem Kasir
 
